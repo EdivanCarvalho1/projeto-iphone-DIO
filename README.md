@@ -1,4 +1,6 @@
-# Projeto Java
+# 💻Projeto Celular Java - Curso DIO
 
-## UML:
+## 📚UML:
+
+![Diagrama UML](iphoneuml.png)
 
